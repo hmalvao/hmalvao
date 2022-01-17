@@ -1,0 +1,4 @@
+- 👋 Olá, me chamo Henrique e tenho 25 anos
+- Sou bacharel em direito mas curioso e amante da tecnologia
+- Atualmente estou cursando o Alura Oracle ONE, buscando formação e conhecimento em programação
+- Estou na maioria das redes sociais como **@hmalvao**
